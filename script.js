@@ -10,7 +10,7 @@ document.querySelectorAll('.stack-card').forEach(card => {
     {
       title: "Telco Recommendation",
       figmaUrl: "https://www.figma.com/proto/IKiRWhAVKk0PuNPjTfGPnb/Telco?page-id=341%3A134&node-id=341-166&t=zvJv00Ez5dnHOsDP-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=341%3A166",
-      tags: ["UI/UX Designer", "Figma", "Web Design", "Capstone Project"],
+      tags: ["UI/UX Designer", "Web Design", "Capstone Project"],
       images: [
         "assets/telco 1.png",
         "assets/telco 2.png"
@@ -29,7 +29,7 @@ document.querySelectorAll('.stack-card').forEach(card => {
     {
       title: "Trendify Digital Art",
       figmaUrl: "https://relaxed-halva-41694b.netlify.app",
-      tags: ["Front-End Dev", "Web Design", "Academic Project"],
+      tags: ["Front-End Developer", "Web Design", "Academic Project"],
       images: [
         "assets/new2.png",
         "assets/new3.png"
@@ -48,7 +48,7 @@ document.querySelectorAll('.stack-card').forEach(card => {
     {
       title: "PDKKI Web Revamp",
       figmaUrl: "https://pdkki-app.vercel.app",
-      tags: ["UI/UX Designer", "Figma", "Web Design", "Internship Project"],
+      tags: ["Fullstack Developer", "Web Design", "Internship Project"],
       images: [
         "assets/ki 1.png",
         "assets/ki 2.png"
@@ -65,9 +65,9 @@ document.querySelectorAll('.stack-card').forEach(card => {
       reflection: "I learned how important it is to understand user needs before designing, and how user feedback can help create a more effective and user-friendly interface."
     },
     {
-      title: "SukaSuka Puan",
+      title: "SukaSuka Puan Social Media Content",
       figmaUrl: "https://www.instagram.com/p/DZHOY5tE4cl/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-      tags: ["Creative Designer", "Figma", "Web Design", "Internship Project"],
+      tags: ["Creative Designer", "Social Media Design", "Volunteer Project"],
       images: [
         "assets/3 Juni.png",
         "assets/3 Juni (2).png"
@@ -86,7 +86,7 @@ document.querySelectorAll('.stack-card').forEach(card => {
     {
       title: "Yeongu Social Media Content",
       figmaUrl: "",
-      tags: ["Graphic Designer", "Canva", "Social Media Design", "Internship Project"],
+      tags: ["Graphic Designer", "Social Media Design", "Volunteer Project"],
       images: [
         "assets/yeongu 1.png",
         "assets/yeongu 2.png"
@@ -103,9 +103,9 @@ document.querySelectorAll('.stack-card').forEach(card => {
       reflection: "I learned how to design based on client needs and maintain consistency."
     },
     {
-      title: "PT Gema Inovasi Agri",
+      title: "GIRI Social Media Content",
       figmaUrl: "",
-      tags: ["Graphic Designer", "Canva", "Social Media Design", "Internship Project"],
+      tags: ["Graphic Designer", "Social Media Design", "Internship Project"],
       images: [
         "assets/giri 1.png",
         "assets/giri 2.png"
