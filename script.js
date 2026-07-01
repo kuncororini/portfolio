@@ -336,3 +336,24 @@ document.querySelectorAll('.stack-card').forEach(card => {
       ? '0 4px 20px rgba(45,45,255,0.07)'
       : 'none';
   });
+
+  // ===================== MOBILE NAV TOGGLE (hamburger) =====================
+  function toggleNavMenu() {
+    document.getElementById('navLinks').classList.toggle('active');
+    document.getElementById('navToggle').classList.toggle('active');
+  }
+
+  function closeNavMenu() {
+    document.getElementById('navLinks').classList.remove('active');
+    document.getElementById('navToggle').classList.remove('active');
+  }
+
+  document.addEventListener('click', e => {
+    const navLinks = document.getElementById('navLinks');
+    const navToggle = document.getElementById('navToggle');
+    if (navLinks.classList.contains('active') &&
+        !navLinks.contains(e.target) &&
+        !navToggle.contains(e.target)) {
+      closeNavMenu();
+    }
+  });
